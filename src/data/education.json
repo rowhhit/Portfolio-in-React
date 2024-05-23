@@ -1,0 +1,23 @@
+[
+    {
+      "degree": "Master of Computer Application (MCA)",
+      "university": "PES Modern College Of Engineering",
+      "location": "Pune, Maharashtra."
+    },
+    {
+      "degree": "Bachelor of Science (Information Technology)",
+      "university": "Brila College Of Arts, Science & Commerce",
+      "location": "Kalyan, Thane, Maharashtra."
+    },
+    {
+      "degree": "High School",
+      "school": "Archna Trust English Medium School & Jr. College of Commerce & Science",
+      "location": "Shahpur, Thane, Maharashtra."
+    },
+    {
+      "degree": "Secondary School",
+      "school": "New Standard English Medium High School",
+      "location": "Asangaon, Thane, Maharashtra."
+    }
+  ]
+  

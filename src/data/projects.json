@@ -1,0 +1,31 @@
+[
+  {
+    "title": "EmoTune",
+    "imageSrc": "projects/pro1.jpg",
+    "description": "Music discovery platform using facial recognition.",
+    "skills": ["Python", "User-centric Design","AWS"],
+    "demo": "",
+    "source": "https://github.com/rowhhit/emotion-based-songs.git"
+  },
+  {
+    "title": "Color Diction Using Python",
+    "imageSrc": "projects/pro2.png",
+    "description": "Real-time color detection with OpenCV and Python.",
+    "skills": ["Python", "OpenCV"],
+    "source": ""
+  },
+  {
+    "title": "Airline Reservation System (Java)",
+    "imageSrc": "projects/pro3.png",
+    "description": "Optimized airline reservation system.",
+    "skills": ["Java", "Mysql","html","JavaScript"],
+    "source": "https://github.com/rowhhit/Airline-reservation-system-java.git"
+  },
+  {
+    "title": "Portfolio",
+    "imageSrc": "projects/pro4.jpg",
+    "description": "Clean, modern, and responsive web designs.",
+    "skills": ["HTML", "CSS", "JavaScript", "Bootstrap"],
+    "source": "https://github.com/rowhhit/Portfolio.git"
+  }
+]
